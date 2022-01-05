@@ -1,0 +1,1 @@
+{"health": 125, "max_health": 125, "stamina": 111, "max_stamina": 110, "attack": 13, "speed": 15, "crit": 3, "pot": 5, "coins": 6, "exp": 20, "level": 2, "zone": 1, "current_zone": 1, "iron": 1, "stone": 0, "gems": 0, "sword": "wooden_sword (+1 Attack Damage)", "helmet": null, "chestplate": null, "leggings": null, "boots": null, "ring": null, "collar": null}
